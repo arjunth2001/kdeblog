@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/kdeblogs"
+baseurl: "/kdeblog"
 url: "https://arjunth2001.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
