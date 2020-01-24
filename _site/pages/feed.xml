@@ -7,10 +7,69 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>KDE Connect Website SoK 2020 Week 2</title>
+				<description>&lt;p&gt;&lt;img src=&quot;/kdeblog/assets/img/week2.png&quot; alt=&quot;KDE Connect Website&quot; title=&quot;KDE Connect Website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;View the Website under work &lt;a href=&quot;https://tharjun.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;week-2-overview&quot;&gt;Week 2 Overview&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/54c3ff1a8264d8dce1de4ff4402fa44836c9d892&quot;&gt;Fixing Screen Width issues with images on homepage (CSS)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/21f6faa48b1433c74ea404284778a67564bf0109&quot;&gt;Updated the readme.md with links to promo video assets hosted on share.kde.org &lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/7cb4a48f3c42f19bb5ca845a0eb4055fe05c6582&quot;&gt; Updated the Get-Involved Page for consistency with listing with suggestions from Web Team &lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/f9342de7cc4444551686e07d81485dafd317b2d8&quot;&gt;Added the Promo Video to KDE Peertube Account with the help of the Promo Team… &lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/35d17734beb048282a4594f607091832d1a1c2e6&quot;&gt;Minor Changes such as: improved css for get-involved page, change in icon for userbase, alternating white dark cards on homepage and some other minor work&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Today marks the end of my second week of Season of KDE. This week had been great for me, I came in contact with many teams in KDE and got to work with many new people who are quite helpful and encouraging. Variety of changes came on the website which are linked above with links to commits.&lt;/p&gt;
+
+&lt;p&gt;The Website can be viewed &lt;a href=&quot;https://tharjun.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can check out my proposal &lt;a href=&quot;http://bit.ly/2MFYORu&quot;&gt;here&lt;/a&gt;. The repository that has the KDE Jekyll themed site is &lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This week started off by discussion on the Web Telegram chat on how the website behaved weird on devices with large screen and how some users and even my mentor Carl Schwan felt it a bit weird. So I went onto make the website more important. I decided to try the website out on all types of screen provided by the developer tools in Firefox and Chrome and also checked for Portrait and Landscape modes of all those devices. I can assure you that the website looks as it is intended on all these devices. So it should work fine on relatable devices. All this work was done with CSS.
+Below are images of the website on large screen and the developer tools. 
+&lt;img src=&quot;/kdeblog/assets/img/largescreen.png&quot; alt=&quot;OnLargeScreen&quot; title=&quot;On Large Screen&quot; /&gt;
+&lt;img src=&quot;/kdeblog/assets/img/devtools.png&quot; alt=&quot;DevTools&quot; title=&quot;On Large Screen&quot; /&gt;
+Now the user will be able to see the slides as a whole on most of the devices in both orientations.&lt;/p&gt;
+
+&lt;p&gt;Then I went off to get myself a Developer account on recommendation from Carl Schwan so that I can store the assets and files for the video on KDE Connect Website on share.kde.org in the Promo Groups Folder. I came in contact with some great people in Promo Group this week and really like what they do and effort they put in. Would love to help the Promo Group and work with them in the future. I am planning to be a active participant there too.&lt;/p&gt;
+
+&lt;p&gt;The assets, video files and Kdenlive Project File for the promo video is &lt;a href=&quot;https://share.kde.org/s/syBwRjeWpx6g6Ta?path=%2FVideo%2FKDE%20Connect%2FKDE%20Connect%20Website%20Promo%20Video&quot;&gt;on share.kde.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After a lot of discussion in KDE Web Group on the consistency of the Get-Involved Page and its button a variety of changes were made and everyone seems to be satisfied with the current look of it. 
+&lt;a href=&quot;https://tharjun.github.io/get-involved.html&quot;&gt;Check it out&lt;/a&gt;. We actually came to the conclusion to use KDE Blue. There is some more work left there like updating CSS to make the edges sharp etc as it goes well with the rest of the Website.&lt;/p&gt;
+
+&lt;p&gt;This is how it looks now.
+&lt;img src=&quot;/kdeblog/assets/img/week2.png&quot; alt=&quot;Get-Involved&quot; title=&quot;Get-Involved&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With the help of the Promo Team and especially Paul from Promo, I was able to host my video on Peertube channel of KDE Community and update the website to use that video.&lt;/p&gt;
+
+&lt;p&gt;This is the video on peertube.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+&lt;iframe width=&quot;890&quot; height=&quot;380&quot; src=&quot;https://peertube.mastodon.host/videos/embed/f8ffd8de-3df5-46b5-bbe3-114393be4b44&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The rest of the week was filled with fixing css for get-involved page, changing the icon for User Base as the old one didn’t fit in well. The new icon is shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/kdeblog/assets/userbase2.png&quot; alt=&quot;Get-Involved&quot; title=&quot;Get-Involved&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The home page was also updated to alternating Dark and White Cards since it is aesthatically pleasing.&lt;/p&gt;
+
+&lt;p&gt;Waiting for an awesome next week too. Don’t forget to checkout the website.  So with that I conclude this post. See you in the next one.  “Happy KDEing!!”&lt;/p&gt;
+
+</description>
+				<pubDate>Fri, 24 Jan 2020 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/2020/01/24/week-2-sok.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2020/01/24/week-2-sok.html</guid>
+			</item>
+		
+			<item>
 				<title>KDE Connect Website SoK 2020 Week 1</title>
 				<description>&lt;p&gt;&lt;img src=&quot;/kdeblog/assets/img/week1.png&quot; alt=&quot;KDE Connect Website&quot; title=&quot;KDE Connect Website&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;View the Website under work &lt;a href=&quot;tharjun.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;View the Website under work &lt;a href=&quot;https://tharjun.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;week-1-overview&quot;&gt;Week 1 Overview&lt;/h3&gt;
 &lt;ul&gt;
@@ -24,7 +83,7 @@
 
 &lt;p&gt;It had been great fun working with KDE Community on my SoK 2020 Project that is making a Website to promote KDE Connect. I started early off making the website from December by having a lot of discussion with my mentors Carl Schwan and Piyush Aggarwal, and the KDE Connect Developers. They were all very supportive and provided very constructive feedback. So when the project got accepted last week a lot of the work was already over. My proposal included the more work that is required on the website and taking the website to as much perfection as possible.&lt;/p&gt;
 
-&lt;p&gt;The Website can be viewed &lt;a href=&quot;https://arjunth.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Website can be viewed &lt;a href=&quot;https://tharjun.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can check out my proposal &lt;a href=&quot;http://bit.ly/2MFYORu&quot;&gt;here&lt;/a&gt;. The repository that has the KDE Jekyll themed site is &lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
