@@ -7,6 +7,59 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>KDE Connect Website SoK 2020 Week 4</title>
+				<description>&lt;p&gt;&lt;img src=&quot;/kdeblog/assets/img/week1.png&quot; alt=&quot;KDE Connect Website&quot; title=&quot;KDE Connect Website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The final website is up! The official one. &lt;a href=&quot;https://kdeconnect.kde.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;week-4-overview&quot;&gt;Week 4 Overview&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/7dcd170866b5c1256690cc2dae6ac34382bd3f8c&quot;&gt;Made changes that were requested on Connect devel Telegram &lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The final Website is up on the official link.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the overview of Week 4. This week marks the end of the SOK Project to develop KDE Connect Website. This week started of by moving the repository to the Websites Section at finally bringing it online officially at &lt;a href=&quot;https://kdeconnect.kde.org/&quot;&gt;here&lt;/a&gt;. After the website went live  more changes were suggested on the KDE Connect Developer Chats. I was happy to implement these changes as I think they were great opinions.&lt;/p&gt;
+
+&lt;p&gt;I am happy with the final version of the website and I am planning to contribute more to this community in the future. See you in the next Blog Post. Happy KDE’ing!!.&lt;/p&gt;
+
+</description>
+				<pubDate>Sun, 09 Feb 2020 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/2020/02/09/week-4-sok.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2020/02/09/week-4-sok.html</guid>
+			</item>
+		
+			<item>
+				<title>KDE Connect Website SoK 2020 Week 3</title>
+				<description>&lt;p&gt;&lt;img src=&quot;/kdeblog/assets/img/week1.png&quot; alt=&quot;KDE Connect Website&quot; title=&quot;KDE Connect Website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;View the Website under work &lt;a href=&quot;https://tharjun.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;week-3-overview&quot;&gt;Week 3 Overview&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/7dcd170866b5c1256690cc2dae6ac34382bd3f8c&quot;&gt;Improved CSS on all pages using Bootstrap instead of Hard Coding&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/42faa9466e323d2b7ca1b175bbaf6a597c7f0221&quot;&gt;Updated the Wordings on The Get-Involved Page&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect/commit/41b6891c931ddcf2e376a40e33f40874ebca113f&quot;&gt; Added Links&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;First of all sorry for the late overview of week 3. The week had been quite busy with other stuff in life and I was not able to find time to write this blog post till now. Week 3 had only some small work to be done as the project was reaching its final outcome.&lt;/p&gt;
+
+&lt;p&gt;The Website can be viewed &lt;a href=&quot;https://tharjun.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can check out my proposal &lt;a href=&quot;http://bit.ly/2MFYORu&quot;&gt;here&lt;/a&gt;. The repository that has the KDE Jekyll themed site is &lt;a href=&quot;https://invent.kde.org/arjunth/kde-connect&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I started off by improving the CSS on pages by changing from hard coded values to Bootstrap classes after the opinion from my mentor Carl Schwan. The wordings on the Get-Involved page were also updated with a lot of help from Mr.Philip from KDE Developers Telegram. Thanks a lot to him the get-involved page sounds great now.&lt;/p&gt;
+
+&lt;p&gt;All the missings links were also added. Since the week was busy for me, I did some more small works here and there and it got over quick.&lt;/p&gt;
+
+&lt;p&gt;While, I am writing this, I have also finished Week 4 and it is great and its the final outcome. Don’t forget to checkout the website.  So with that I conclude this post. See you in the next one.  “Happy KDEing!!”&lt;/p&gt;
+
+</description>
+				<pubDate>Sun, 09 Feb 2020 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/2020/02/09/week-3-sok.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2020/02/09/week-3-sok.html</guid>
+			</item>
+		
+			<item>
 				<title>KDE Connect Website SoK 2020 Week 2</title>
 				<description>&lt;p&gt;&lt;img src=&quot;/kdeblog/assets/img/week2.png&quot; alt=&quot;KDE Connect Website&quot; title=&quot;KDE Connect Website&quot; /&gt;&lt;/p&gt;
 

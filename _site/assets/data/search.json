@@ -1,6 +1,26 @@
 [
   
   {
+    "title"    : "KDE Connect Website SoK 2020 Week 4",
+    "category" : "",
+    "tags"     : " KDE, SoK 2020",
+    "url"      : "/kdeblog/2020/02/09/week-4-sok.html",
+    "date"     : "February 9, 2020",
+    "excerpt"  : "\n\nThe final website is up! The official one. here.\n\nWeek 4 Overview\n\n  Made changes that were requested on Connect devel Telegram \n  The final Website is up on the official link.\n\n\nThis is the overview of Week 4. This week marks the end of the SOK...",
+  "content"  : "\n\nThe final website is up! The official one. here.\n\nWeek 4 Overview\n\n  Made changes that were requested on Connect devel Telegram \n  The final Website is up on the official link.\n\n\nThis is the overview of Week 4. This week marks the end of the SOK Project to develop KDE Connect Website. This week started of by moving the repository to the Websites Section at finally bringing it online officially at here. After the website went live  more changes were suggested on the KDE Connect Developer Chats. I was happy to implement these changes as I think they were great opinions.\n\nI am happy with the final version of the website and I am planning to contribute more to this community in the future. See you in the next Blog Post. Happy KDE’ing!!.\n\n"
+} ,
+  
+  {
+    "title"    : "KDE Connect Website SoK 2020 Week 3",
+    "category" : "",
+    "tags"     : " KDE, SoK 2020",
+    "url"      : "/kdeblog/2020/02/09/week-3-sok.html",
+    "date"     : "February 9, 2020",
+    "excerpt"  : "\n\nView the Website under work here.\n\nWeek 3 Overview\n\n  Improved CSS on all pages using Bootstrap instead of Hard Coding\n  Updated the Wordings on The Get-Involved Page\n   Added Links\n\n\nFirst of all sorry for the late overview of week 3. The week ...",
+  "content"  : "\n\nView the Website under work here.\n\nWeek 3 Overview\n\n  Improved CSS on all pages using Bootstrap instead of Hard Coding\n  Updated the Wordings on The Get-Involved Page\n   Added Links\n\n\nFirst of all sorry for the late overview of week 3. The week had been quite busy with other stuff in life and I was not able to find time to write this blog post till now. Week 3 had only some small work to be done as the project was reaching its final outcome.\n\nThe Website can be viewed here.\n\nYou can check out my proposal here. The repository that has the KDE Jekyll themed site is here.\n\nI started off by improving the CSS on pages by changing from hard coded values to Bootstrap classes after the opinion from my mentor Carl Schwan. The wordings on the Get-Involved page were also updated with a lot of help from Mr.Philip from KDE Developers Telegram. Thanks a lot to him the get-involved page sounds great now.\n\nAll the missings links were also added. Since the week was busy for me, I did some more small works here and there and it got over quick.\n\nWhile, I am writing this, I have also finished Week 4 and it is great and its the final outcome. Don’t forget to checkout the website.  So with that I conclude this post. See you in the next one.  “Happy KDEing!!”\n\n"
+} ,
+  
+  {
     "title"    : "KDE Connect Website SoK 2020 Week 2",
     "category" : "",
     "tags"     : " KDE, SoK 2020",
